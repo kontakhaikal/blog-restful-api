@@ -1,0 +1,15 @@
+# pnpm
+.pnpm*
+pnpm*
+
+# vscode
+.vscode
+
+# node
+node_modules
+
+# typescript
+build
+
+# jest
+coverage
